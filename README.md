@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Hi 👋 I'm Aninda Sadhukhan.</p>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on Whatsweb – A full-stack messaging web app using PHP, MySQL, HTML, CSS, and JS<br><br>🌱 I’m currently learning React.js, Tailwind CSS, Python for AI, Cybersecurity (SQL Injection, Phishing, WiFi attacks)<br><br>🤝 I’m looking for help with MySecureLab – A beginner-friendly cybersecurity lab using bWAPP, WiFiPumpkin, etc.<br><br>👨‍💻 All of my projects are available at https://github.com/anindasadhukhan<br><br>📝 I regularly write articles on https://aninda-sadhukhan-cyber-security.blogspot.com/<br><br>💬 Ask me about Frontend development, GitHub, PHP & MySQL, Cybersecurity<br><br>📫 How to reach me anindasadhukhan2@gmail.com<br><br>🌐 Visit my website https://www.anindasadhukhan.tech<br><br>⚡ Fun fact I created my first real project before turning 15 😄
 
